@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jisung YOon
+title: Jisung Yoon
 
 # Name pronunciation (optional)
 name_pronunciation: 
