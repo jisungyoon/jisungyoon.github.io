@@ -10,9 +10,9 @@ authors:
 - Yong-Yeol Ahn
 
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+- 'Equal contribution'
+- 'Equal contribution'
+- 'Equal contribution'
 
 
 date: '2020-01-01'
