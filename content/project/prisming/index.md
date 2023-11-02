@@ -1,5 +1,10 @@
 ---
 title: 'PRISMING: Blockchain for in-kind donations'
+authors:
+- Jisung Yoon
+- Hyunuk Kim
+- Jiyoung Moon
+
 summary: PRISMING builds a private blockchain platform to enhance transparency and efficiency of in-kind donations.
 
 date: '2019-09-24T00:00:00Z'
