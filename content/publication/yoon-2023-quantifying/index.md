@@ -18,4 +18,11 @@ asbtract: Humans acquire and accumulate knowledge through language usage and eag
 summary: In the 21st century, humans acquire and exchange knowledge primarily through language usage, with the emergence of information technology breaking down geographical barriers. A study using Wikipedia, a vast dataset, explores how knowledge diffusion occurs. It finds that when population groups have more socio-economic connections, like cultural and linguistic ties, their shared knowledge is more similar. Geographical proximity is no longer crucial for knowledge dissemination, and the dominant channel for information distribution in the 21st century appears to be online.
 
 featured: true
+
+image:
+  caption: 'Figs from paper'
+  focal_point: ''
+  preview_only: false
+
+
 ---
