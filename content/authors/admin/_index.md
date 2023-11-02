@@ -46,7 +46,6 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - active: false
   - name: Technical
     items:
       - name: Python
