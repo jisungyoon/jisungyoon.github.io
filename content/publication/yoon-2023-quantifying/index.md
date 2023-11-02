@@ -5,10 +5,13 @@ authors:
 - Jinseo Park
 - Jinhyuk Yun
 - Woo-Sung Jung
+
 date: '2023-01-01'
 publishDate: '2023-11-02T20:37:11.380620Z'
+
 publication_types:
 - article-journal
+
 publication: '*Journal of Informetrics*
 
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1751157723000809'
