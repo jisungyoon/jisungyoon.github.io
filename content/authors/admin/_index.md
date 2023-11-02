@@ -31,7 +31,7 @@ bio: Jisung Yoon is a Postdoctoral Fellow at the Kellogg School of Management an
 interests:
   - Computational Social Science
   - Machine Laerning & Network Science
-  - Science of Science & Orgnziation Theory
+  - Science of Science & Organization Theory
 
 # Education to show in About widget
 education:
