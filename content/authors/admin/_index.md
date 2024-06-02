@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Kellogg School of Management at Northwestern University
-    url: https://www.kellogg.northwestern.edu/
+  - name: KDI School of Public Policy and Management
+    url: https://www.kdischool.ac.kr/index.es?sid=a1
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jisung Yoon is a Postdoctoral Fellow at the Kellogg School of Management and NICO, working with Professor Hyejin Youn. His primary research areas include computational social science, the science of science, and the application of AI/ML in public policy. His research leverages the abundant digital traces of humans through machine learning methods and aims to unlock the full potential of the combination of machine learning and social science. His recent work concentrates on unraveling the intricacies of bureaucracy and coordination mechanisms to gain insights into the regulatory functions within a wide range of systems.
+bio: Jisung Yoon is an Assistant Professor at KDI School of Public Policy and Management. He was a Postdoctoral Fellow at the Kellogg School of Management and NICO, working with Professor Hyejin Youn. His primary research areas include computational social science, the science of science, and the application of AI/ML in public policy. His research leverages the abundant digital traces of humans through machine learning methods and aims to unlock the full potential of the combination of machine learning and social science. His recent work concentrates on unraveling the intricacies of bureaucracy and coordination mechanisms to gain insights into the regulatory functions within a wide range of systems.
 
 # Interests to show in About widget
 interests:
@@ -95,5 +95,5 @@ social:
 highlight_name: true
 ---
 
-Jisung Yoon is a Postdoctoral Fellow at the Kellogg School of Management and NICO, working with Professor Hyejin Youn. His primary research areas include computational social science, the science of science, and the application of AI/ML in public policy. His research leverages the abundant digital traces of humans through machine learning methods and aims to unlock the full potential of the combination of machine learning and social science. His recent work concentrates on unraveling the intricacies of bureaucracy and coordination mechanisms to gain insights into the regulatory functions within a wide range of systems.
+Jisung Yoon is an Assistant Professor at KDI School of Public Policy and Management. He was a Postdoctoral Fellow at the Kellogg School of Management and NICO, working with Professor Hyejin Youn. His primary research areas include computational social science, the science of science, and the application of AI/ML in public policy. His research leverages the abundant digital traces of humans through machine learning methods and aims to unlock the full potential of the combination of machine learning and social science. His recent work concentrates on unraveling the intricacies of bureaucracy and coordination mechanisms to gain insights into the regulatory functions within a wide range of systems.
 {style="text-align: justify;"}
