@@ -170,18 +170,18 @@ sections:
     content:
       title: Contact
       subtitle:
-      email: Jisung.yoon@kellogg.northwestern.edu 
+      email: jisung.yoon92@gmail.com 
       address:
-        street: 600 Foster Street
-        city: Evanston
-        region: IL
-        postcode: '60201'
-        country: United States
-        country_code: US
+        street: 263 Namsejong-ro
+        city: Sejong-si
+        region: 
+        postcode: '30149'
+        country: Republic of Korea
+        country_code: KR
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '42.0535'
-        longitude: '-87.6777'  
+        latitude: '36.4812'
+        longitude: '127.3095'  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
