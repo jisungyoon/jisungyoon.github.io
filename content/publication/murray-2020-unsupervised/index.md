@@ -19,7 +19,7 @@ date: '2023-11-02'
 publishDate: '2023-11-02T20:37:11.362851Z'
 publication_types:
 - article-journal
-publication: 'PNAS (In press)'
+publication: 'PNAS'
 
 url_pdf: 'https://arxiv.org/abs/2012.02785'
 
