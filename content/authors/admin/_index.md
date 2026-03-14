@@ -30,16 +30,16 @@ bio: Jisung Yoon is an Assistant Professor at KDI School of Public Policy and Ma
 # Interests to show in About widget
 interests:
   - Computational Social Science
-  - Machine Laerning & Network Science
+  - Machine Learning & Network Science
   - Science of Science & Organization Theory
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Industrial and Mangement Engineering
+    - course: PhD in Industrial and Management Engineering
       institution: Pohang University of Science and Technology
       year: 2022
-    - course: BS in Industrial and Mangement Engineering
+    - course: BS in Industrial and Management Engineering
       institution: Pohang University of Science and Technology
       year: 2016
 
